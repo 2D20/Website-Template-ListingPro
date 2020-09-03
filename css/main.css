@@ -1081,6 +1081,7 @@ input.default{
 .lp-home-banner-contianer{
 	height:560px;
 	position:relative;
+	background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url(https://drscdn.500px.org/photo/229003061/q%3D80_m%3D2000/v2?sig=f4b75d7abe2a55199b27dea9c4ae89eea70020de8d33bb811b54538184f4ecb3);
 }
 .lp-home-banner-contianer-inner{
 	position:absolute;
